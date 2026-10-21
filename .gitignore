@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data: the raw dataset is course material and is not redistributed
+data/*.csv
+data/*.json
+
+# Notebook artefacts
+*.nbconvert.ipynb
+*.executed.ipynb
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Never commit secrets
+.env
+*.key
+secrets.*
