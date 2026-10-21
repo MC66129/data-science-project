@@ -1,0 +1,13 @@
+# Core
+pandas==2.2.3
+numpy==2.2.6
+
+# Static figures
+matplotlib==3.10.3
+
+# Interactive figures inside the notebook
+bokeh==3.10.1
+
+# Notebook environment
+jupyterlab==4.4.2
+ipykernel==6.29.5
